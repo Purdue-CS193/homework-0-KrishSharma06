@@ -19,7 +19,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - The way of teaching and delivering content is really good.
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
