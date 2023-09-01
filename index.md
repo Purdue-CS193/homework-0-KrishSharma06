@@ -1,3 +1,12 @@
+
+# Krish Sharma's First CS193 Homework
+
+
+- CS193 is a very essential course for CS students.
+- Our Instructors are amazing.
+- The way of teaching and delivering content is really good.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -10,12 +19,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 
-# Krish Sharma's First CS193 Homework
-
-
-- CS193 is a very essential course for CS students.
-- Our Instructors are amazing.
-- The way of teaching and delivering content is really good.
 
 
 
